@@ -19,7 +19,7 @@ You can also filter by multiple parameters simultaneously using the same method.
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/81697076/125217124-eaa6d400-e28d-11eb-9d3e-88dd86e23eec.png)
 
+## Summary 
+A drawback of this new design is that because there are multiple filter inputs, the user would benefit from a button that would update the table after all parameters are entered instead of detecting every change and updating on the fly. Also, restricitng the date input to take only the correct format would prevent incorrect entries that would return a blank table which could mislead the user.
 
-
-
-## Summary
+One imporvement that could be made would be a date range filter instaed of an exact day. This would expand the capability of the web app. Also, a better dataset would be very helpful. Some links to articles or media involving the UFO sightings would be extemely useful in learning more about them. As it is, there is a very limited amount of information to use from the dataset.
